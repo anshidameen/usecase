@@ -10,7 +10,7 @@
     },
     {
       "name": "Anju",
-      "img":"/assets/images/download2.jpg",
+      "img":"/assets/images/2.jpg",
       "age": 28,
       "height": "5ft",
       "job": "Graphic Designer",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Alice",
-      "img":"/assets/images/download3.jpg",
+      "img":"/assets/images/3.jpg",
       "age": 22,
       "height": "5ft 2",
       "job": "Project Manager",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Preethi",
-      "img":"/assets/images/download4.jpg",
+      "img":"/assets/images/4.jpg",
       "age": 23,
       "height": "5ft 4",
       "job": "Data Analyst",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Harshita",
-      "img":"/assets/images/download5.jpg",
+      "img":"/assets/images/5.jpg",
       "age": 25,
       "height": "5ft 2",
       "job": "Web Developer",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Reshma",
-      "img":"/assets/images/download6.jpg",
+      "img":"/assets/images/6.jpg",
       "age": 25,
       "height": "5ft 6",
       "job": "Web Developer",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Athira",
-      "img":"/assets/images/images7.jpg",
+      "img":"/assets/images/download1.jpg",
       "age": 26,
       "height": "5ft 2",
       "job": "Doctor",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Dhiya",
-      "img":"/assets/images/images8.jpg",
+      "img":"/assets/images/8.jpg",
       "age": 22,
       "height": "5ft",
       "job": "Civil engineer",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Ammu",
-      "img":"/assets/images/images9.jpg",
+      "img":"/assets/images/9.jpg",
       "age": 27,
       "height": "5ft 6",
       "job": "Doctor",
@@ -82,7 +82,7 @@
     },
     {
       "name": "varsha",
-      "img":"/assets/images/images10.jpg",
+      "img":"/assets/images/6.jpg",
       "age": 29,
       "height": "5ft 4",
       "job": "Manger",

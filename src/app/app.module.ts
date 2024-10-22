@@ -10,8 +10,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from "@angular/material/slider";
 import {MatMenuModule} from "@angular/material/menu";
 import {MatIconModule} from "@angular/material/icon";
-import { HeaderComponent } from './shared/components/header/header.component';
-import { FooterComponent } from './shared/components/footer/footer.component'
 import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
@@ -20,8 +18,7 @@ import { HttpClientModule } from '@angular/common/http';
     ProfileComponent,
     HomeComponent,
     ShortlistedComponent,
-    HeaderComponent,
-    FooterComponent
+ 
   ],
   imports: [
     BrowserModule,
