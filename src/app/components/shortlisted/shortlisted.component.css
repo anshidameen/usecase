@@ -9,3 +9,8 @@ button{
     border: none;
     
 }
+
+#button1{
+    border: none;
+    background-color: transparent;
+}
