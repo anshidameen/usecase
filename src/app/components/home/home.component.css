@@ -1,0 +1,56 @@
+/* .card{
+    width: 250px;
+    border: 1px solid;
+    border-radius: 8px;
+    float: right;
+    margin: 18px;
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+  } */
+
+  h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #fff;
+  }
+  #button1{
+    border: none;
+    background-color: transparent;
+    color: rgb(232, 12, 12);
+    font-size: x-large;
+  }
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns by default */
+    gap: 16px; /* Space between cards */
+    padding: 20px; /* Padding around the container */
+  }
+  
+  .card {
+    background: #fff; /* Optional: Set a background color */
+    border: 1px solid #ddd; /* Optional: Add a border */
+    border-radius: 8px; /* Optional: Add border radius */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 1200px) {
+    .card-container {
+      grid-template-columns: repeat(3, 1fr); /* 3 columns for larger tablets */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .card-container {
+      grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .card-container {
+      grid-template-columns: 1fr; /* 1 column for mobile */
+    }
+  }
+  

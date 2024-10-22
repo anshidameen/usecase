@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Akshita",
+      "img":"/assets/images/download1.jpg",
+      "age": 24,
+      "height": "5ft 5",
+      "job": "Software Developer",
+      "location": "Karapakkam",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Anju",
+      "img":"/assets/images/download2.jpg",
+      "age": 28,
+      "height": "5ft",
+      "job": "Graphic Designer",
+      "location": "Chennai",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Alice",
+      "img":"/assets/images/download3.jpg",
+      "age": 22,
+      "height": "5ft 2",
+      "job": "Project Manager",
+      "location": "Adayar",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Preethi",
+      "img":"/assets/images/download4.jpg",
+      "age": 23,
+      "height": "5ft 4",
+      "job": "Data Analyst",
+      "location": "Salem",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Harshita",
+      "img":"/assets/images/download5.jpg",
+      "age": 25,
+      "height": "5ft 2",
+      "job": "Web Developer",
+      "location": "Kochi",
+      "state": "Kerala"
+    },
+    {
+      "name": "Reshma",
+      "img":"/assets/images/download6.jpg",
+      "age": 25,
+      "height": "5ft 6",
+      "job": "Web Developer",
+      "location": "Kozhikode",
+      "state": "Kerala"
+    },
+    {
+      "name": "Athira",
+      "img":"/assets/images/images7.jpg",
+      "age": 26,
+      "height": "5ft 2",
+      "job": "Doctor",
+      "location": "Kanchipuram",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Dhiya",
+      "img":"/assets/images/images8.jpg",
+      "age": 22,
+      "height": "5ft",
+      "job": "Civil engineer",
+      "location": "Nagercoil",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "Ammu",
+      "img":"/assets/images/images9.jpg",
+      "age": 27,
+      "height": "5ft 6",
+      "job": "Doctor",
+      "location": "Chennai",
+      "state": "Tamilnadu"
+    },
+    {
+      "name": "varsha",
+      "img":"/assets/images/images10.jpg",
+      "age": 29,
+      "height": "5ft 4",
+      "job": "Manger",
+      "location": "Teni",
+      "state": "Tamilnadu"
+    }
+  ]
+  

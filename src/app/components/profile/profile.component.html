@@ -1,0 +1,10 @@
+
+<div *ngIf="user">
+    <div  class="card" >
+        <img [src]="user.img" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{user.name}}</h5>
+          <p class="card-text">{{user.age}}years, {{user.height}},{{user.job}},{{user.location}},{{user.state}}</p>
+        </div>
+    </div>
+</div>
